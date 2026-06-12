@@ -146,3 +146,4 @@ smartadserver.com, 5828, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4568, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 5828-OB, RESELLER, 060d053dcf45cbf3
 themediagrid.com, ws2d8n, RESELLER, 35d5010d7789b49d
+vungle.com, 6a2be6beede581a042452ade, DIRECT, c107d686becd2d77
